@@ -1,17 +1,7 @@
 package CleanCode;
 
 public class Comment {
-    /** 
-    * Default constructor. 
-    */ 
-    protected AnnualDateRule() { } 
-    /** The day of the month. */ 
-    private int dayOfMonth; 
-    /** 
-    * Returns the day of the month. 
-    * @return the day of the month. 
-    */ 
-    public int getDayOfMonth() { 
-    return dayOfMonth; 
-    }
+// Copyright (C) 2011 by Osoco. All rights reserved. 
+// Released under the terms of the GNU General Public License 
+// version 2 or later. 
 }
