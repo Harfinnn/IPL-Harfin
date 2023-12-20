@@ -9,8 +9,8 @@
  */
 public class MainProgram {
     public static void main(String[]args){
-    Person person;
-    person.name = "Bob Smith";
-    System.out.print = person.name;
+    Person person = new Person();
+    person.setName("Bob Smith");
+    System.out.print(person.getName());
     }
 }
